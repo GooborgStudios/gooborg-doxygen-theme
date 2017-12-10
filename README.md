@@ -1,22 +1,17 @@
 Custom Doxygen Theme
 ====================
 
-This is a custom [doxygen](http://www.stack.nl/~dimitri/doxygen/) theme inspired by [Mac Developer Library](https://developer.apple.com/library/mac/navigation/index.html).
-
-Metro Theme
------------
-
-Metro UI theme in the `metro` directory has been pulled from [nafSadh's](https://github.com/nafSadh) [fork](https://github.com/nafSadh/doxygen-theme-metro) of the original theme.
+This is a custom [Doxygen](http://www.stack.nl/~dimitri/doxygen/) theme based off of the [Nightwave Studios website](https://www.nightwave.co/).
 
 Example
 -------
 
-An example of documentation using this theme can be found at http://milik.cz/~jan/cppapp/docs/index.html.
+An example of documentation using this theme can be found at `No Public Documentation Yet`.
 
 Installation
 ------------
 
-To install this theme, copy `customdoxygen.css` and `DoxygenLayout.xml` somewhere to your project and in your `Doxyfile`, change the following settings:
+To install this theme, copy `customdoxygen.css` and `DoxygenLayout.xml` to somewhere in your project and change the following settings in your `Doxyfile`:
 
  * `HTML_EXTRA_STYLESHEET` - set to point to `customdoxygen.css`
  * `LAYOUT_FILE` - set to point to `DoxygenLayout.xml`
@@ -24,7 +19,7 @@ To install this theme, copy `customdoxygen.css` and `DoxygenLayout.xml` somewher
 License
 -------
 
-This theme is distribute under GNU General Public License v3. See the `LICENSE` file for the full text of the license.
+This theme is distributed under GNU General Public License v3. See the `LICENSE` file for the full text of the license.
 
 Alternatively, see the [GNU website](http://www.gnu.org/licenses/) for more infomation about GPL.
 
