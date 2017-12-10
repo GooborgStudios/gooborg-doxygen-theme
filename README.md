@@ -1,7 +1,7 @@
-Custom Doxygen Theme
+Nightwave Studios' Doxygen Theme
 ====================
 
-This is a custom [Doxygen](http://www.stack.nl/~dimitri/doxygen/) theme based off of the [Nightwave Studios website](https://www.nightwave.co/).
+This is a custom [Doxygen](http://www.stack.nl/~dimitri/doxygen/) theme designed for software developed by [Nightwave Studios](https://www.nightwave.co/), implementing the same color scheme and design principles.
 
 Example
 -------
