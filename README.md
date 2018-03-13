@@ -1,7 +1,7 @@
-Nightwave Studios' Doxygen Theme
+Gooborg Studios' Doxygen Theme
 ====================
 
-This is a custom [Doxygen](http://www.stack.nl/~dimitri/doxygen/) theme designed for software developed by [Nightwave Studios](https://www.nightwave.co/), implementing the same color scheme and design principles.
+This is a custom [Doxygen](http://www.stack.nl/~dimitri/doxygen/) theme designed for software developed by [Gooborg Studios](http://www.gooborg.com/), implementing the same color scheme and design principles.
 
 Example
 -------
